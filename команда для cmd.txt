@@ -1,0 +1,5 @@
+запускает cmd  в папка с файлом.
+
+
+
+mvn clean test -Dsurefire.suiteXmlFiles=src/test/resources/testng.xml
